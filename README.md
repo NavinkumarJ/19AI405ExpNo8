@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: NAVINN KUMAR J </h3>
+<h3>Name: NAVIN KUMAR J </h3>
 <h3>Register Number: 212222240071 </h3>
 <H3>Aim:</H3>
 <p>
